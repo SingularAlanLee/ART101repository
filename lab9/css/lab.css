@@ -1,0 +1,10 @@
+h1 {
+  color: orange;
+  font-size: 200%;
+  font-family:"helvetica";
+}
+p  {
+  color: green;
+  text-indent: 20px;
+  margin-left: 10px;
+}
